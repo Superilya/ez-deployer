@@ -27,5 +27,3 @@ fi
 rm -rf "$PROJECT_DIR"
 
 ln -s "$RELEASE_DIR" "$PROJECT_DIR"
-
-echo "lol"
